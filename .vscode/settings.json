@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "optional": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "variant": "cpp",
+    "initializer_list": "cpp",
+    "atomic": "cpp",
+    "cwchar": "cpp",
+    "string": "cpp",
+    "exception": "cpp",
+    "iosfwd": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp"
+  }
+}
